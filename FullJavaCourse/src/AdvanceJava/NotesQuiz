@@ -1,0 +1,55 @@
+
+1)	
+
+2)	 "Encapsulation" principle emphasizes the binding of data and methods within a class?
+
+3)	 the value of a variable "can not" be changed if it is initialized with the 'final' keyword
+
+4)	 "static" keyword is used to define a class member that can be accessed without reference to any object
+
+5)	 "extends" keyword is used to achieve inheritance in Java
+
+6)	  class can not be a superclass of itself in Java
+
+7)	  method shadowing or method hiding possible with the private method
+
+8)	  "covariant return type" is the return type of overridden methods?
+
+9)	  "CharSequence" interface is implemented by the String, StringBuffer, and StringBuilder classes
+
+10)	  "StringBuffer()" constructor of StringBuffer reserves room for 16 characters without reallocation
+
+11)	   "StringBuffer" class can be used when multiple threads are involved and thread-safety is required
+
+12)		"default" keyword is employed for specifying a default method within a Java interface
+
+13)		"public" implementing a Java interface, methods must possess the following access modifier:
+
+14)		By default, the methods enclosed within a Java interface are characterized as:"Abstract and Public"
+
+15)		"The method defined by a lambda expression does not have a name."
+
+16)		Composition and Aggregation does Inner classes promote in Java
+
+17)		access the method "m1()" of the inner class inside the main method Outer.inner i= new outer().new inner();
+
+18)		a subclass reference variable be assigned to a superclass reference variable
+
+19)		 the purpose of the lambda operator (->) in Java lambda expressions
+		-> divides the expression into parameter list and lambda body.
+		
+20) 	"From superclass to subclass" order are the constructors executed when a class hierarchy is created
+
+21) 	abstract class "can't be" instantiated directly with the new operator in Java
+
+
+
+
+
+
+
+
+
+
+
+
